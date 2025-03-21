@@ -71,7 +71,7 @@ function displayError(error) {
 }
 
 // Fonction pour mettre à jour les compteurs
-function updateCounters(isError) {
+function updateCounters() {
   // TODO: Implémentez cette fonction pour mettre à jour les compteurs
 }
 
