@@ -44,7 +44,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("images/baniere.webp");
+    url("../TP_05/images/baniere.webp");
   background-size: cover;
   background-position: center;
   height: 80vh;
