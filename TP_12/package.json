@@ -1,0 +1,23 @@
+{
+  "name": "tp_12",
+  "version": "1.0.0",
+  "description": "Dernier TP du cours 1WEBD de SUPINFO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aelerinya/tp-js-supinfo.git"
+  },
+  "author": "Lucie Philippon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Aelerinya/tp-js-supinfo/issues"
+  },
+  "homepage": "https://github.com/Aelerinya/tp-js-supinfo#readme",
+  "dependencies": {
+    "fibonacci": "file:fibonacci"
+  }
+}
