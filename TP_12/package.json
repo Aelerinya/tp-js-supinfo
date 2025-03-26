@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Aelerinya/tp-js-supinfo#readme",
   "dependencies": {
+    "@inquirer/prompts": "^7.4.0",
     "fibonacci": "file:fibonacci"
   }
 }
