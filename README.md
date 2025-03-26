@@ -36,11 +36,11 @@ Les TP sont accessibles sur Github Pages.
 ### Jour 5
 
 - [TP 10 — Javascript modulaire](TP_10/index.html)
-- TP 11 — Persistence de données (à venir)
+- [TP 11 — Persistence de données](TP_11/index.html)
 
 ### Jour 6
 
-- TP 12 — Prise en main de NodeJS et NPM (à venir)
+- TP 12 — Prise en main de NodeJS et NPM (à lancer avec `node` dans un terminal)
 
 ## LICENSE
 
